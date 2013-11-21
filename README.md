@@ -4,7 +4,7 @@ yolo-octo-ninja-platformer
 Simple platformer game in HTML 5
 
 The base of the game comes from the tutorial found here: http://madebyevan.com/gamedevclass/
-Read the slides, check out the resources, etc.
+Read the slides, check out the resources, etc. <- OLD
 
-THIS OTHER GAME FRAMEWORK MIGHT BE GOOD TO USE: http://melonjs.org/index.html
+SWITCHED TO THE MELONJS FRAMEWORK: http://melonjs.org/index.html
 
