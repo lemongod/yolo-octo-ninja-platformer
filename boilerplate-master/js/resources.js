@@ -1,20 +1,20 @@
 game.resources = [
 
-	/* Graphics. 
-	 * @example
-	 * {name: "example", type:"image", src: "data/img/example.png"},
-	 */
+	// Graphics. 
+	// @example
+	{name: "area01_level_tiles", type:"image", src: "data/img/map/area01_level_tiles.png"},
+	 
 
 	/* Atlases 
 	 * @example
 	 * {name: "example_tps", type: "tps", src: "data/img/example_tps.json"},
 	 */
 		
-	/* Maps. 
-	 * @example
-	 * {name: "example01", type: "tmx", src: "data/map/example01.tmx"},
-	 * {name: "example01", type: "tmx", src: "data/map/example01.json"},
- 	 */
+	// Maps. 
+	// @example
+	{name: "area01", type: "tmx", src: "data/map/area01.tmx"}
+	// {name: "example01", type: "tmx", src: "data/map/example01.json"},
+ 	 
 
 	/* Background music. 
 	 * @example
